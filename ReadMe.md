@@ -20,7 +20,7 @@ No bulk scrapes or content replication. Only videos created and owned by the org
 ## 2. High-Level Architecture
 
 
-![ContentFlow Architecture Diagram](assets/diagrams/architecture.png)
+![ContentFlow Architecture Diagram](architecture.png)
 
 ---
 
@@ -55,7 +55,7 @@ Safeguards (per environment):
 
 ### 5.1 Video Upload Lifecycle
 
-![ContentFlow Architecture Diagram](assets/diagrams/youtubeintegration.png)
+![ContentFlow Architecture Diagram](youtubeintegration.png)
 
 (Estimated cost units match published API documentation.)
 
